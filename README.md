@@ -5,7 +5,7 @@ Para configurar la página web se requiere los siguientes requisitos:
 - Raspberry Pi 3 Model B
 - LAMP
 - omxplayer, fbi 
-- /var/www/html con www-data
+- /var/www/html con usuario y grupo www-data
 
 ### Configuración base de datos
 Debes importar el archivo .sql y seguidamente configurar el archivo de assets/includes/config.php
